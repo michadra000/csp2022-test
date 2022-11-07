@@ -1,0 +1,26 @@
+Unordered list
+
+<html>
+  <body>
+    <ul>
+      <li> shopping </li>
+      <li> grab groceries </li>
+      <li> grab new shoes </li>
+      <li> grab new comb </li>
+    </ul>
+  </body>
+</html>
+
+Ordered list
+
+<h2> Runestone ordered list
+<ol>
+<li> cereal steps </li>
+<li> grab bowl </li>
+<li> grab milk </li>
+<li> grab cereal </li>
+<li> pour cereal in bowl</li>
+<li> pour milk in bowl </li>
+</ol>
+
+
